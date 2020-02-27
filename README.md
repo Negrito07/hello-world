@@ -1,3 +1,3 @@
 # hello-world
-ET, home, phone/n
+ET, home, phone.
 Getting started!
