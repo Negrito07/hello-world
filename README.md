@@ -1,2 +1,3 @@
 # hello-world
-ET, home, phone
+ET, home, phone.
+Getting started!
