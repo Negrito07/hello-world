@@ -1,7 +1,7 @@
 # hello-world
 
 ## ET, home, phone...
-![Image](https://www.flickr.com/photos/156589946@N03/41561973661/in/album-72157695115421604/ "oops, wrong one!")
+![](https://www.flickr.com/photos/156589946@N03/41561973661/in/album-72157695115421604/ "oops, wrong one!")
 
 Trying _some stuff_ !  
 Getting started in:  
