@@ -1,6 +1,6 @@
 # hello-world
 
-ET, home, phone...
+## ET, home, phone...
 
 Trying _some stuff_ !  
 Getting started in:  
