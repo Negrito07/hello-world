@@ -6,8 +6,8 @@ Trying _some stuff_ !
 Getting started in:  
 **3**  
 **2**  
-**1**
-[example](https://www.youtube.com/watch?v=iyFijjikkeM)
+**1**  
+[Go!](https://www.youtube.com/watch?v=iyFijjikkeM)
 
 
 
