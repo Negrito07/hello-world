@@ -1,6 +1,6 @@
 # hello-world
 
-## ET, home, phone...<a data-flickr-embed="true" href="https://www.flickr.com/gp/156589946@N03/FvBerq" title="oops, wrong one!"><img src="https://live.staticflickr.com/893/41561973661_aae176d794_w.jpg" width="33" height="40" alt="shape"></a>
+## ET, home, phone...<a data-flickr-embed="true" href="https://www.flickr.com/gp/156589946@N03/FvBerq" title="oops, wrong one!"><img src="https://live.staticflickr.com/893/41561973661_aae176d794_w.jpg" width="99" height="120" alt="shape"></a>
 
 Trying _some stuff_ !  
 Getting started in:  
